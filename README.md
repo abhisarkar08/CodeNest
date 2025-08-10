@@ -4,7 +4,7 @@ Welcome to **CodeNest Editor**, your lightweight, fast, and user-friendly online
 
 ## Live Preview 🌐
 
-You can check out the live version of this project here: **[Live Preview](YOUR_LIVE_PREVIEW_LINK_HERE)**
+You can check out the live version of this project here: **[Live Preview](https://codenesst.netlify.app/)**
 
 ## Features ✨
 
