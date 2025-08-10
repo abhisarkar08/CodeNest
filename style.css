@@ -6,7 +6,7 @@ body{
     color: white;
     font-family: inter;
     /* background-image: radial-gradient(ellipse 80% 80% at 50% -20%,rgba(38,91,248,.25),hsla(0,0%,100%,0)); */
-    background-image: url("back.jpg");
+    background-image: url("./img/codeimg/back.jpg");
     background-repeat: no-repeat, repeat;
     background-position-x: center;
     background-size: cover;

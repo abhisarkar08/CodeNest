@@ -15,10 +15,10 @@ You can check out the live version of this project here: **[Live Preview](YOUR_L
 ## Screenshots 📸
 
 **Homepage:**
-![Homepage Screenshot](YOUR_HOMEPAGE_IMAGE_LINK_HERE)
+![Homepage Screenshot](./img/ss/home.png)
 
 **Editor Page:**
-![Editor Screenshot](YOUR_EDITOR_IMAGE_LINK_HERE)
+![Editor Screenshot](./img/ss/editor.png)
 
 ## Usage 💻
 
